@@ -78,8 +78,8 @@ export default function MapBase({ width, height, onReady, onZoom }: MapBaseProps
       const countries = topojson.feature(
         worldData as never,
         (worldData as never as {
-          objects: { countries: topojson.GeometryCollection };
-        }).objects.countries
+          objects: { countries: unknown };
+        }).objects.countries as never
       );
 
       // ocean rect is oversized relative to the viewport so panning never
@@ -109,8 +109,8 @@ export default function MapBase({ width, height, onReady, onZoom }: MapBaseProps
           topojson.mesh(
             worldData as never,
             (worldData as never as {
-              objects: { countries: topojson.GeometryCollection };
-            }).objects.countries,
+              objects: { countries: unknown };
+            }).objects.countries as never,
             (a, b) => a !== b
           )
         )
