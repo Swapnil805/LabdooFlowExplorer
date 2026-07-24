@@ -1,0 +1,394 @@
+status,country,device_count
+Other,Germany,72
+Other,Spain,58
+Other,Senegal,53
+Other,Palestinian Territory,34
+Other,Nepal,28
+Other,Tanzania,24
+Other,Uganda,24
+Other,Ghana,13
+Other,Ukraine,11
+Other,India,8
+Other,Sierra Leone,8
+Other,South Africa,8
+Other,Kenya,7
+Other,Gambia,6
+Other,Malawi,6
+Other,Morocco,5
+Other,Cameroon,4
+Other,Liberia,4
+Other,United States,4
+Other,Guatemala,3
+Other,Romania,3
+Other,Albania,2
+Other,Costa Rica,2
+Other,Zambia,2
+Other,Austria,1
+Other,Bosnia and Herzegovina,1
+Other,Congo (Kinshasa),1
+Other,Ethiopia,1
+Other,Greece,1
+Other,Namibia,1
+Other,Switzerland,1
+Other,Togo,1
+S0,Spain,1233
+S0,Germany,821
+S0,United States,129
+S0,New Zealand,90
+S0,Switzerland,58
+S0,China,23
+S0,Mongolia,19
+S0,United Kingdom,17
+S0,Taiwan,16
+S0,Austria,12
+S0,Sweden,12
+S0,Mexico,8
+S0,Greece,5
+S0,India,5
+S0,Kenya,4
+S0,Belgium,3
+S0,"Hong Kong S.A.R., China",3
+S0,Tanzania,3
+S0,Cambodia,2
+S0,Denmark,2
+S0,Italy,2
+S0,Australia,1
+S0,Colombia,1
+S0,France,1
+S0,Guatemala,1
+S0,Luxembourg,1
+S0,Madagascar,1
+S0,Netherlands,1
+S0,Nigeria,1
+S0,Norway,1
+S0,Sierra Leone,1
+S0,South Korea,1
+S0,Uganda,1
+S0,United Arab Emirates,1
+S0,Vietnam,1
+S0,Zimbabwe,1
+S0,uk,1
+S1,Switzerland,1108
+S1,Spain,937
+S1,Germany,224
+S1,United States,58
+S1,Taiwan,47
+S1,Australia,19
+S1,United Kingdom,10
+S1,New Zealand,6
+S1,"Hong Kong S.A.R., China",4
+S1,Mexico,4
+S1,Austria,3
+S1,xx,2
+S1,Indonesia,1
+S1,Madagascar,1
+S1,Tanzania,1
+S1,uk,1
+S2,Switzerland,3732
+S2,Germany,916
+S2,Spain,563
+S2,United States,93
+S2,New Zealand,47
+S2,Taiwan,42
+S2,Belgium,26
+S2,Ghana,10
+S2,Austria,7
+S2,Mexico,6
+S2,Rwanda,6
+S2,Uganda,6
+S2,Cameroon,5
+S2,Kenya,5
+S2,Mali,4
+S2,Cambodia,3
+S2,"Hong Kong S.A.R., China",3
+S2,India,3
+S2,Tanzania,3
+S2,Nigeria,2
+S2,Ukraine,2
+S2,United Kingdom,2
+S2,American Samoa,1
+S2,Bosnia and Herzegovina,1
+S2,Congo (Brazzaville),1
+S2,Congo (Kinshasa),1
+S2,Ethiopia,1
+S2,Guatemala,1
+S2,Italy,1
+S2,Laos,1
+S2,Liberia,1
+S2,Senegal,1
+S2,Syria,1
+S2,Togo,1
+S2,Turkey,1
+S2,Venezuela,1
+S2,Zambia,1
+S3,Spain,622
+S3,Germany,288
+S3,Congo (Kinshasa),50
+S3,United States,41
+S3,New Zealand,34
+S3,Taiwan,25
+S3,Venezuela,22
+S3,South Africa,11
+S3,Colombia,5
+S3,Switzerland,4
+S3,Greece,3
+S3,Kenya,3
+S3,Senegal,3
+S3,Argentina,2
+S3,Australia,2
+S3,Benin,2
+S3,Mexico,2
+S3,Brazil,1
+S3,Cameroon,1
+S3,Ecuador,1
+S3,Malawi,1
+S3,Nicaragua,1
+S3,United Kingdom,1
+S3,Zambia,1
+S3,Zimbabwe,1
+S4,Germany,7260
+S4,Ghana,6492
+S4,Spain,2522
+S4,Cameroon,2401
+S4,Congo (Kinshasa),1937
+S4,Uganda,1937
+S4,Tanzania,1553
+S4,Kenya,1327
+S4,Nigeria,1283
+S4,Bosnia and Herzegovina,1172
+S4,Senegal,1137
+S4,Ukraine,1099
+S4,Togo,1085
+S4,Zambia,918
+S4,South Africa,592
+S4,Romania,573
+S4,Switzerland,573
+S4,Nepal,560
+S4,Greece,458
+S4,Morocco,448
+S4,India,442
+S4,Malawi,411
+S4,Mongolia,335
+S4,Angola,323
+S4,Sierra Leone,313
+S4,Namibia,312
+S4,Ethiopia,280
+S4,Gambia,279
+S4,Serbia,276
+S4,Dominican Republic,229
+S4,Turkey,227
+S4,Lebanon,225
+S4,Colombia,223
+S4,Guinea,217
+S4,Bolivia,213
+S4,Mexico,212
+S4,Burundi,205
+S4,Mali,203
+S4,Sri Lanka,203
+S4,Haiti,177
+S4,Cambodia,176
+S4,Brazil,174
+S4,Thailand,169
+S4,Liberia,164
+S4,Burkina Faso,152
+S4,Tonga,146
+S4,Pakistan,126
+S4,Belarus,122
+S4,Swaziland,119
+S4,Ecuador,118
+S4,Albania,117
+S4,Benin,116
+S4,Congo (Brazzaville),116
+S4,Vietnam,109
+S4,Laos,108
+S4,Myanmar,95
+S4,Philippines,92
+S4,United States,90
+S4,xx,90
+S4,Iraq,88
+S4,Guatemala,86
+S4,Zimbabwe,83
+S4,Mauritania,77
+S4,Belize,74
+S4,Austria,72
+S4,Mozambique,72
+S4,Peru,66
+S4,Paraguay,63
+S4,Madagascar,60
+S4,Italy,59
+S4,Syria,58
+S4,Afghanistan,57
+S4,Nicaragua,57
+S4,Armenia,56
+S4,Poland,56
+S4,Bulgaria,55
+S4,Somalia,52
+S4,South Sudan,50
+S4,Tunisia,45
+S4,Indonesia,40
+S4,Kyrgyzstan,40
+S4,Tajikistan,40
+S4,China,36
+S4,Costa Rica,36
+S4,Georgia,36
+S4,Rwanda,34
+S4,New Zealand,31
+S4,Hungary,29
+S4,Cape Verde,28
+S4,Egypt,28
+S4,Vanuatu,28
+S4,Honduras,27
+S4,Guinea-Bissau,25
+S4,Macedonia,23
+S4,Algeria,22
+S4,France,22
+S4,Sudan,22
+S4,Central African Republic,21
+S4,Taiwan,17
+S4,Cuba,14
+S4,Ireland,14
+S4,Western Sahara,14
+S4,El Salvador,12
+S4,Ivory Coast,12
+S4,Jordan,12
+S4,Venezuela,12
+S4,United Kingdom,11
+S4,Gabon,10
+S4,xk,10
+S4,Portugal,9
+S4,Russia,9
+S4,Argentina,8
+S4,Croatia,8
+S4,Iran,8
+S4,South Korea,6
+S4,Uzbekistan,6
+S4,Czech Republic,4
+S4,Kazakhstan,4
+S4,Bangladesh,3
+S4,Chad,3
+S4,Panama,3
+S4,Chile,2
+S4,"Hong Kong S.A.R., China",2
+S4,Israel,2
+S4,Japan,2
+S4,Solomon Islands,2
+S4,U.S. Virgin Islands,2
+S4,Uruguay,2
+S4,Malaysia,1
+S5,Spain,166
+S5,Germany,110
+S5,Taiwan,89
+S5,Switzerland,77
+S5,United States,30
+S5,Thailand,14
+S5,New Zealand,9
+S5,Ghana,6
+S5,Gambia,5
+S5,Uganda,3
+S5,Kenya,2
+S5,Austria,1
+S5,Ethiopia,1
+S5,Honduras,1
+S5,Laos,1
+S5,Senegal,1
+S5,Sierra Leone,1
+S5,Tanzania,1
+S5,United Kingdom,1
+S5,Vietnam,1
+S6,Switzerland,1644
+S6,Germany,1612
+S6,Spain,371
+S6,United States,252
+S6,Austria,77
+S6,Tanzania,63
+S6,Romania,61
+S6,Ghana,55
+S6,Congo (Kinshasa),41
+S6,Gambia,41
+S6,New Zealand,36
+S6,Kenya,33
+S6,Uganda,29
+S6,Vanuatu,29
+S6,India,28
+S6,Taiwan,17
+S6,Nepal,11
+S6,Brazil,10
+S6,Cameroon,8
+S6,"Hong Kong S.A.R., China",8
+S6,Madagascar,7
+S6,Zambia,7
+S6,Senegal,6
+S6,Thailand,5
+S6,Western Sahara,5
+S6,Ethiopia,4
+S6,Indonesia,4
+S6,Mali,4
+S6,Namibia,4
+S6,Sierra Leone,4
+S6,Sri Lanka,4
+S6,Dominican Republic,3
+S6,Albania,2
+S6,Guatemala,2
+S6,Haiti,2
+S6,Liberia,2
+S6,Rwanda,2
+S6,South Africa,2
+S6,Vietnam,2
+S6,Bosnia and Herzegovina,1
+S6,Georgia,1
+S6,Guinea-Bissau,1
+S6,Kazakhstan,1
+S6,Laos,1
+S6,Malawi,1
+S6,Mexico,1
+S6,Morocco,1
+S6,Myanmar,1
+S6,Nigeria,1
+S6,Peru,1
+S6,Togo,1
+S6,United Kingdom,1
+S6,Zimbabwe,1
+T1,Germany,300
+T1,Ghana,165
+T1,Tanzania,57
+T1,Kenya,48
+T1,Zimbabwe,44
+T1,Sierra Leone,42
+T1,Namibia,39
+T1,Cameroon,31
+T1,Gambia,31
+T1,Congo (Kinshasa),30
+T1,Uganda,28
+T1,Morocco,27
+T1,Spain,23
+T1,Ukraine,22
+T1,Nigeria,21
+T1,Togo,12
+T1,Madagascar,10
+T1,Zambia,10
+T1,Lebanon,9
+T1,Greece,8
+T1,Venezuela,6
+T1,Angola,5
+T1,Costa Rica,5
+T1,Mozambique,5
+T1,Afghanistan,4
+T1,India,4
+T1,Mongolia,4
+T1,Thailand,4
+T1,Bolivia,3
+T1,Nepal,3
+T1,Senegal,3
+T1,South Africa,3
+T1,Colombia,2
+T1,Ethiopia,2
+T1,Myanmar,2
+T1,Peru,2
+T1,Vietnam,2
+T1,Bosnia and Herzegovina,1
+T1,Ecuador,1
+T1,Laos,1
+T1,Liberia,1
+T1,Serbia,1
+T1,Sri Lanka,1
+T1,United States,1

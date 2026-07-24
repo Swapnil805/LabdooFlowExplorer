@@ -1,0 +1,640 @@
+origin,destination,year,trip_count
+Germany,Uganda,2025,63
+Germany,Uganda,2019,56
+Germany,Uganda,2024,56
+Germany,Ghana,2019,46
+Germany,Uganda,2023,46
+Germany,Uganda,2022,45
+Germany,Ghana,2023,44
+Germany,Ghana,2020,40
+Germany,Uganda,2018,36
+Germany,Tanzania,2022,34
+Germany,Tanzania,2018,32
+Germany,Ghana,2018,30
+Germany,Tanzania,2017,28
+Germany,Tanzania,2019,26
+Germany,Ghana,2024,25
+Germany,Congo (Kinshasa),2022,24
+Germany,Ghana,2025,24
+Germany,Ghana,2022,23
+Germany,Tanzania,2016,23
+Germany,Ghana,2017,22
+Germany,Ghana,2021,22
+Germany,Cameroon,2025,21
+Germany,Uganda,2021,20
+Germany,Cameroon,2024,20
+Germany,Tanzania,2025,19
+Germany,Nigeria,2023,19
+Germany,Kenya,2025,18
+Germany,Uganda,2026,17
+Germany,Kenya,2019,17
+Germany,Ukraine,2023,16
+Germany,Nigeria,2024,16
+Germany,India,2024,16
+Germany,Congo (Kinshasa),2019,16
+Germany,Cameroon,2021,16
+Germany,Congo (Kinshasa),2023,16
+Germany,Kenya,2024,16
+Germany,South Africa,2023,16
+Germany,Uganda,2017,15
+Germany,India,2023,15
+Germany,South Africa,2022,15
+Germany,Tanzania,2024,15
+Germany,Tanzania,2021,15
+Germany,Congo (Kinshasa),2020,14
+Germany,Uganda,2020,14
+Germany,South Africa,2019,14
+Germany,Kenya,2018,14
+Germany,Cameroon,2023,14
+Germany,Nigeria,2022,14
+Germany,Tanzania,2015,13
+Germany,Kenya,2022,13
+Germany,Congo (Kinshasa),2021,13
+Germany,Tanzania,2023,12
+Germany,Namibia,2023,12
+Germany,Kenya,2023,12
+Germany,Morocco,2018,11
+Germany,South Africa,2021,11
+Germany,South Africa,2024,11
+Germany,Malawi,2018,11
+Germany,Congo (Kinshasa),2024,11
+Germany,Senegal,2023,10
+Germany,Congo (Kinshasa),2025,10
+Germany,South Africa,2020,10
+Germany,Senegal,2021,10
+Germany,Togo,2021,9
+Germany,Kenya,2016,9
+Germany,Nigeria,2021,9
+Germany,Ethiopia,2017,9
+Germany,Zambia,2024,9
+Germany,South Africa,2025,9
+Germany,Congo (Kinshasa),2018,8
+Germany,Senegal,2022,8
+Germany,Ethiopia,2019,8
+Germany,Brazil,2024,8
+Germany,Brazil,2021,8
+Germany,Tanzania,2020,8
+Germany,Togo,2025,8
+Germany,Morocco,2024,8
+Germany,Namibia,2024,8
+Germany,Namibia,2025,8
+Germany,Nepal,2016,8
+Germany,Burundi,2017,7
+Germany,Zambia,2023,7
+Germany,Cape Verde,2015,7
+Germany,Nepal,2023,7
+Germany,Nepal,2024,7
+Germany,Cameroon,2019,7
+Germany,Sierra Leone,2019,7
+Germany,Togo,2017,7
+Spain,Ghana,2019,7
+Germany,Kenya,2026,7
+Germany,Sudan,2018,7
+Germany,Ghana,2016,7
+Spain,Senegal,2024,6
+Germany,Angola,2024,6
+Germany,India,2025,6
+Germany,Cameroon,2020,6
+Germany,Zambia,2015,6
+Germany,Sierra Leone,2025,6
+Germany,Togo,2022,6
+Germany,Mali,2018,6
+Germany,Bolivia,2023,6
+Germany,Burundi,2018,6
+Germany,Nepal,2019,6
+Spain,Senegal,2023,6
+Germany,Armenia,2019,6
+Germany,Turkey,2022,6
+Germany,Uganda,2016,6
+Germany,Togo,2024,6
+Germany,Ukraine,2025,5
+Germany,Greece,2020,5
+Germany,Cameroon,2022,5
+Germany,Bosnia and Herzegovina,2015,5
+Germany,Kenya,2021,5
+Germany,Namibia,2021,5
+Germany,Brazil,2023,5
+Germany,Bosnia and Herzegovina,2025,5
+Germany,India,2019,5
+Germany,Kenya,2017,5
+Germany,India,2020,5
+Austria,Tanzania,2017,5
+Germany,Senegal,2019,5
+Germany,Thailand,2017,5
+Germany,Morocco,2016,5
+Germany,Kenya,2020,5
+Germany,Gambia,2018,5
+Germany,Gambia,2019,5
+Germany,Congo (Kinshasa),2017,5
+Germany,Ukraine,2017,5
+Germany,Brazil,2025,5
+Germany,Togo,2019,5
+Germany,Bosnia and Herzegovina,2016,4
+United States,Guatemala,2019,4
+Italy,Thailand,2016,4
+Germany,Namibia,2020,4
+Germany,Swaziland,2021,4
+Spain,Ethiopia,2022,4
+Germany,Sri Lanka,2023,4
+Germany,Sri Lanka,2018,4
+Germany,Kenya,2015,4
+Germany,Sierra Leone,2022,4
+Spain,India,2017,4
+Germany,Myanmar,2017,4
+Germany,Lebanon,2024,4
+Germany,Gambia,2022,4
+Germany,South Africa,2017,4
+Germany,Morocco,2023,4
+Germany,Mali,2019,4
+Germany,Albania,2023,4
+Germany,Zimbabwe,2019,4
+Germany,Angola,2020,4
+Germany,Nepal,2017,4
+Germany,Bosnia and Herzegovina,2020,4
+Germany,Bosnia and Herzegovina,2024,4
+Germany,Bolivia,2025,4
+Germany,Malawi,2022,4
+Germany,Brazil,2022,4
+Germany,Uganda,2015,4
+Germany,Ukraine,2022,4
+Germany,Nigeria,2018,4
+Spain,Senegal,2018,4
+Germany,India,2018,4
+Germany,Cameroon,2018,4
+Germany,Togo,2023,4
+Germany,Zambia,2022,4
+Germany,Zambia,2025,4
+Germany,Guinea,2017,4
+Germany,Congo (Brazzaville),2023,4
+Germany,Morocco,2017,4
+Germany,Colombia,2023,4
+Germany,Malawi,2017,4
+Spain,Senegal,2019,4
+Germany,Nigeria,2025,4
+Germany,Nigeria,2017,3
+Germany,India,2026,3
+Germany,Morocco,2019,3
+Germany,Namibia,2019,3
+Germany,India,2021,3
+Germany,Mali,2016,3
+Germany,Malawi,2019,3
+Germany,Romania,2023,3
+Germany,India,2022,3
+Germany,Nigeria,2019,3
+Germany,Mozambique,2021,3
+Germany,Greece,2021,3
+Germany,Mozambique,2025,3
+Germany,Namibia,2026,3
+Germany,Senegal,2016,3
+Germany,Liberia,2017,3
+Germany,Senegal,2017,3
+United States,Vietnam,2019,3
+Germany,Benin,2019,3
+Germany,Zambia,2017,3
+Germany,Thailand,2023,3
+Germany,Cambodia,2018,3
+Germany,Burundi,2024,3
+Germany,Burkina Faso,2021,3
+Germany,Burkina Faso,2019,3
+Germany,Bosnia and Herzegovina,2023,3
+Germany,Bolivia,2026,3
+Germany,Bolivia,2022,3
+Germany,Bolivia,2017,3
+Germany,Ukraine,2024,3
+Germany,Georgia,2021,3
+Germany,Thailand,2022,3
+Germany,Zambia,2021,3
+Germany,Angola,2019,3
+Germany,Albania,2022,3
+Germany,Albania,2019,3
+Germany,Albania,2015,3
+Spain,France,2016,3
+Spain,Malawi,2024,3
+Spain,Senegal,2016,3
+United States,Uganda,2016,3
+United States,Uganda,2018,3
+Germany,Cape Verde,2022,3
+Germany,Mauritania,2025,3
+Germany,Chile,2016,3
+Germany,Colombia,2016,3
+Germany,Congo (Kinshasa),2016,3
+Germany,Colombia,2022,3
+Germany,Sri Lanka,2025,3
+Germany,Thailand,2019,3
+Germany,Ethiopia,2018,3
+Germany,South Africa,2018,3
+Germany,South Africa,2016,3
+Germany,Sierra Leone,2021,2
+Spain,France,2019,2
+Spain,Costa Rica,2016,2
+Spain,Malawi,2023,2
+Spain,Algeria,2018,2
+New Zealand,United States,2018,2
+Germany,Namibia,2016,2
+Spain,India,2018,2
+Spain,Italy,2018,2
+Germany,Myanmar,2015,2
+Spain,Kenya,2017,2
+Spain,Ghana,2018,2
+Spain,Mozambique,2017,2
+Spain,Morocco,2018,2
+Ireland,Nigeria,2025,2
+Germany,Sierra Leone,2023,2
+Spain,Senegal,2017,2
+Spain,Senegal,2020,2
+Spain,Senegal,2022,2
+Spain,Senegal,2025,2
+Spain,Tanzania,2023,2
+Spain,United States,2016,2
+Spain,Western Sahara,2019,2
+United States,Liberia,2021,2
+Germany,Mongolia,2022,2
+Italy,Congo (Kinshasa),2017,2
+"Hong Kong S.A.R., China",Thailand,2018,2
+"Hong Kong S.A.R., China",Vietnam,2017,2
+Germany,Nepal,2025,2
+Germany,Togo,2015,2
+Germany,Pakistan,2025,2
+Germany,Togo,2018,2
+Germany,Togo,2020,2
+Germany,Peru,2025,2
+Germany,Romania,2017,2
+Germany,Turkey,2021,2
+Germany,Russia,2017,2
+Germany,Nigeria,2020,2
+Germany,Mauritania,2020,2
+Germany,Senegal,2020,2
+Germany,Nigeria,2016,2
+Germany,Syria,2017,2
+Germany,South Africa,2026,2
+Germany,Zambia,2019,2
+Germany,Nepal,2018,2
+Germany,Swaziland,2020,2
+Germany,Zimbabwe,2020,2
+Germany,Zimbabwe,2023,2
+Germany,Zimbabwe,2025,2
+Germany,xx,2019,2
+"Hong Kong S.A.R., China",Cambodia,2017,2
+Germany,Sri Lanka,2022,2
+"Hong Kong S.A.R., China",India,2017,2
+Germany,Sri Lanka,2017,2
+Germany,Pakistan,2024,2
+Germany,Sierra Leone,2024,2
+Germany,Namibia,2022,2
+Germany,Gambia,2021,2
+Germany,India,2016,2
+Austria,Nigeria,2018,2
+Germany,Haiti,2023,2
+Germany,Burundi,2016,2
+Austria,Nepal,2017,2
+Germany,Haiti,2024,2
+Germany,Haiti,2025,2
+Austria,Morocco,2019,2
+Germany,India,2017,2
+Germany,Ivory Coast,2019,2
+Germany,Brazil,2020,2
+Germany,Brazil,2017,2
+Germany,Bosnia and Herzegovina,2021,2
+Germany,Iraq,2017,2
+Germany,Bosnia and Herzegovina,2018,2
+Germany,Bosnia and Herzegovina,2017,2
+Germany,Iraq,2025,2
+Germany,Burundi,2019,2
+France,Vanuatu,2017,2
+Germany,Burundi,2023,2
+Germany,Guinea,2021,2
+Germany,Ecuador,2018,2
+Germany,Ecuador,2022,2
+Germany,Ethiopia,2016,2
+Germany,Ethiopia,2023,2
+Germany,Congo (Kinshasa),2026,2
+Germany,Congo (Kinshasa),2015,2
+Germany,Gambia,2017,2
+Germany,Gambia,2025,2
+Germany,Greece,2017,2
+Germany,Colombia,2018,2
+Germany,Cape Verde,2024,2
+Germany,Greece,2022,2
+Germany,Greece,2023,2
+Germany,Guinea,2016,2
+Germany,Cameroon,2017,2
+Germany,Bolivia,2024,2
+Germany,Hungary,2018,2
+Germany,Bolivia,2021,2
+Germany,Lebanon,2023,2
+Germany,Malawi,2023,2
+Germany,Malawi,2026,2
+Germany,Bangladesh,2021,2
+Germany,Belarus,2017,2
+Germany,Belgium,2018,2
+Germany,Afghanistan,2023,2
+Germany,Liberia,2022,2
+Germany,Liberia,2016,2
+Germany,Armenia,2023,2
+Germany,Laos,2015,2
+Germany,Bolivia,2018,2
+Germany,Bolivia,2016,2
+Austria,India,2023,2
+Spain,India,2022,1
+Spain,Guatemala,2021,1
+Belgium,Congo (Kinshasa),2015,1
+Germany,Afghanistan,2021,1
+Belgium,Congo (Kinshasa),2021,1
+Spain,Ghana,2022,1
+Spain,Italy,2017,1
+"Hong Kong S.A.R., China",Indonesia,2019,1
+India,"Hong Kong S.A.R., China",2017,1
+Spain,Greece,2019,1
+Spain,Greece,2020,1
+Spain,Guatemala,2024,1
+Spain,India,2020,1
+Spain,Guinea,2019,1
+Spain,Indonesia,2024,1
+Spain,Honduras,2021,1
+Spain,India,2025,1
+Spain,Ghana,2017,1
+Belgium,Congo (Kinshasa),2020,1
+Belgium,Congo (Kinshasa),2019,1
+Spain,India,2019,1
+"Hong Kong S.A.R., China",Vietnam,2019,1
+"Hong Kong S.A.R., China",Vietnam,2018,1
+Germany,Afghanistan,2024,1
+Germany,Albania,2016,1
+"Hong Kong S.A.R., China",Myanmar,2018,1
+Belgium,Uganda,2018,1
+Spain,Gambia,2015,1
+Italy,India,2019,1
+New Zealand,Spain,2016,1
+Spain,Costa Rica,2020,1
+Spain,Costa Rica,2017,1
+Netherlands,Uganda,2024,1
+New Zealand,Australia,2017,1
+France,Vanuatu,2019,1
+Spain,Colombia,2019,1
+Germany,Afghanistan,2019,1
+Italy,Spain,2017,1
+Spain,Colombia,2016,1
+Spain,Bolivia,2025,1
+Poland,Cameroon,2021,1
+France,Vietnam,2018,1
+Spain,Benin,2024,1
+Spain,Algeria,2019,1
+Spain,Jordan,2022,1
+Spain,Costa Rica,2024,1
+Spain,Ecuador,2017,1
+Spain,Egypt,2018,1
+Netherlands,Uganda,2019,1
+Spain,Ethiopia,2017,1
+France,Vanuatu,2018,1
+Spain,Ethiopia,2026,1
+Netherlands,Uganda,2015,1
+Netherlands,Tanzania,2021,1
+Luxembourg,Tanzania,2015,1
+Germany,Afghanistan,2020,1
+France,Vanuatu,2016,1
+Spain,Gabon,2019,1
+Spain,Algeria,2023,1
+Spain,Gambia,2016,1
+Spain,Georgia,2019,1
+Spain,Italy,2025,1
+Germany,Mauritania,2021,1
+Austria,Zimbabwe,2018,1
+Sweden,Nigeria,2016,1
+United Kingdom,Uganda,2019,1
+United Kingdom,India,2018,1
+Tanzania,Kenya,2018,1
+Switzerland,Tanzania,2017,1
+Switzerland,Sri Lanka,2018,1
+Switzerland,South Africa,2018,1
+Switzerland,Philippines,2016,1
+Sweden,Uganda,2022,1
+Austria,Madagascar,2018,1
+Spain,Uganda,2024,1
+Spain,Vietnam,2024,1
+Spain,Vietnam,2018,1
+Spain,Vanuatu,2023,1
+Spain,Vanuatu,2020,1
+Spain,Vanuatu,2018,1
+Austria,Morocco,2017,1
+Spain,United States,2015,1
+Spain,United Kingdom,2018,1
+United Kingdom,Uganda,2021,1
+United States,China,2016,1
+United States,Ghana,2018,1
+United States,Guatemala,2018,1
+Austria,Kenya,2015,1
+United States,Togo,2019,1
+United States,Thailand,2020,1
+United States,Spain,2018,1
+United States,Spain,2015,1
+United States,South Africa,2019,1
+United States,Sierra Leone,2018,1
+United States,Senegal,2016,1
+United States,Peru,2018,1
+United States,Pakistan,2016,1
+United States,Nepal,2016,1
+United States,Morocco,2018,1
+Austria,Kenya,2018,1
+United States,Kenya,2019,1
+United States,Kenya,2018,1
+United States,Haiti,2019,1
+Austria,Madagascar,2016,1
+Spain,United Kingdom,2017,1
+Spain,Uganda,2022,1
+Spain,Kenya,2019,1
+Spain,Mexico,2021,1
+Spain,Nepal,2016,1
+Spain,Namibia,2016,1
+Spain,Mozambique,2021,1
+Spain,Mozambique,2019,1
+Austria,Tanzania,2015,1
+Spain,Morocco,2020,1
+Austria,Tanzania,2018,1
+Spain,Morocco,2017,1
+Austria,Tanzania,2021,1
+Spain,Uganda,2019,1
+"Hong Kong S.A.R., China",Cambodia,2020,1
+Austria,Uganda,2018,1
+Spain,Malawi,2021,1
+Spain,Malawi,2020,1
+Spain,Laos,2025,1
+Spain,Laos,2024,1
+Spain,Laos,2016,1
+Spain,Kenya,2024,1
+Spain,Nepal,2017,1
+Spain,Nepal,2018,1
+Spain,Nicaragua,2016,1
+Spain,Panama,2018,1
+Spain,Uganda,2017,1
+Spain,Thailand,2025,1
+Spain,Thailand,2024,1
+Spain,Tanzania,2021,1
+Spain,Sierra Leone,2023,1
+Spain,Sierra Leone,2019,1
+Austria,Nepal,2016,1
+Austria,Nigeria,2016,1
+Spain,Senegal,2021,1
+Austria,Nigeria,2019,1
+Austria,Peru,2016,1
+Austria,Senegal,2016,1
+Austria,South Africa,2021,1
+Austria,Syria,2019,1
+Spain,Philippines,2020,1
+Spain,Peru,2021,1
+Spain,Peru,2017,1
+Germany,Albania,2020,1
+Germany,United Kingdom,2021,1
+"Hong Kong S.A.R., China",Cambodia,2018,1
+Germany,Pakistan,2022,1
+Germany,Philippines,2025,1
+Germany,Peru,2019,1
+Germany,Peru,2018,1
+Germany,Peru,2016,1
+Germany,Paraguay,2017,1
+Germany,Paraguay,2016,1
+Germany,Pakistan,2023,1
+Germany,Pakistan,2018,1
+Germany,Iran,2024,1
+Germany,Nigeria,2026,1
+Germany,Hungary,2019,1
+Germany,India,2015,1
+Germany,Indonesia,2018,1
+Germany,Indonesia,2022,1
+Germany,Indonesia,2024,1
+Germany,Indonesia,2025,1
+Germany,Romania,2016,1
+Germany,Haiti,2016,1
+Germany,Romania,2019,1
+Germany,Romania,2020,1
+Germany,Somalia,2019,1
+Germany,Georgia,2016,1
+Germany,Ghana,2015,1
+Germany,Ghana,2026,1
+Germany,Greece,2018,1
+Germany,Greece,2019,1
+Germany,Sierra Leone,2017,1
+Germany,Sierra Leone,2016,1
+Germany,Guinea,2018,1
+Germany,Guinea,2020,1
+Germany,Senegal,2018,1
+Germany,Guinea,2022,1
+Germany,Senegal,2015,1
+Germany,Guinea,2023,1
+Germany,Guinea,2025,1
+Germany,Iran,2023,1
+Germany,Iraq,2016,1
+Germany,Albania,2024,1
+Germany,Mongolia,2023,1
+Germany,Madagascar,2018,1
+Germany,Morocco,2022,1
+Germany,Madagascar,2019,1
+Germany,Malawi,2016,1
+Germany,Mongolia,2026,1
+Germany,Mongolia,2025,1
+Germany,Mongolia,2024,1
+Germany,Mali,2017,1
+Germany,Iraq,2020,1
+Germany,Mongolia,2021,1
+Germany,Mongolia,2017,1
+Germany,Mexico,2025,1
+Germany,Mexico,2023,1
+Germany,Mexico,2020,1
+Germany,Mexico,2019,1
+Germany,Mali,2023,1
+Germany,Macedonia,2021,1
+Germany,Morocco,2025,1
+Germany,Mozambique,2024,1
+Germany,Liberia,2019,1
+Germany,Iraq,2023,1
+Germany,Iraq,2024,1
+Germany,Israel,2022,1
+Germany,Italy,2023,1
+Germany,Kazakhstan,2021,1
+Austria,Bolivia,2017,1
+Germany,Laos,2018,1
+Germany,Lebanon,2021,1
+Germany,Namibia,2018,1
+Germany,Namibia,2017,1
+Germany,Lebanon,2022,1
+Germany,Myanmar,2025,1
+Germany,Myanmar,2024,1
+Germany,Myanmar,2019,1
+Germany,Mozambique,2026,1
+Germany,South Africa,2015,1
+Germany,Georgia,2015,1
+Germany,Gambia,2024,1
+Germany,Brazil,2015,1
+Germany,United Kingdom,2018,1
+Germany,Ukraine,2026,1
+Germany,Benin,2022,1
+Germany,Bolivia,2020,1
+Germany,Ukraine,2016,1
+Germany,Bosnia and Herzegovina,2019,1
+Germany,Bosnia and Herzegovina,2022,1
+Germany,Bulgaria,2021,1
+Germany,Gambia,2023,1
+Germany,Bulgaria,2024,1
+Germany,Burkina Faso,2016,1
+Germany,Turkey,2024,1
+Germany,Turkey,2023,1
+Germany,Burkina Faso,2018,1
+Germany,Burkina Faso,2020,1
+Germany,Turkey,2020,1
+Germany,Mauritania,2022,1
+Germany,Vietnam,2017,1
+Germany,Vietnam,2024,1
+Germany,Benin,2021,1
+Germany,Angola,2021,1
+Germany,xx,2018,1
+Germany,Angola,2022,1
+Germany,Zimbabwe,2024,1
+Germany,Angola,2023,1
+Germany,Zimbabwe,2022,1
+Germany,Armenia,2025,1
+Germany,Zimbabwe,2017,1
+Germany,Bangladesh,2017,1
+Germany,Belarus,2015,1
+Germany,Belarus,2016,1
+Germany,Zambia,2020,1
+Germany,Zambia,2018,1
+Germany,Benin,2020,1
+Germany,Zambia,2016,1
+Germany,Turkey,2019,1
+Germany,Burkina Faso,2022,1
+Germany,Burundi,2020,1
+Germany,Costa Rica,2019,1
+Germany,Syria,2021,1
+Germany,Syria,2019,1
+Germany,Cuba,2025,1
+Germany,Dominican Republic,2017,1
+Germany,Dominican Republic,2018,1
+Germany,Ecuador,2016,1
+Germany,Ecuador,2017,1
+Germany,Sri Lanka,2024,1
+Germany,Ecuador,2021,1
+Germany,Egypt,2016,1
+Germany,Spain,2019,1
+Germany,Spain,2016,1
+Germany,Ethiopia,2015,1
+Germany,France,2023,1
+Germany,Gambia,2016,1
+Germany,Croatia,2015,1
+Germany,Congo (Brazzaville),2024,1
+Germany,Cambodia,2015,1
+Germany,Congo (Brazzaville),2020,1
+Germany,Cambodia,2016,1
+Germany,Cambodia,2017,1
+Germany,Cambodia,2025,1
+Germany,Togo,2016,1
+Germany,Thailand,2025,1
+Germany,Cape Verde,2016,1
+Germany,Colombia,2017,1
+Germany,Thailand,2018,1
+Germany,Thailand,2016,1
+Germany,Thailand,2015,1
+Germany,Colombia,2019,1
+Germany,Colombia,2020,1
+Germany,Colombia,2025,1
+Germany,Congo (Brazzaville),2017,1
+Germany,Congo (Brazzaville),2019,1
+Austria,Afghanistan,2017,1

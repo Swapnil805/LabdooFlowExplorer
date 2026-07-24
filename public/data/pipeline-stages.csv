@@ -1,0 +1,10 @@
+status,device_count,label
+S0,2483,Tagged (S0)
+S1,2426,"At hub, awaiting QA (S1)"
+S2,5501,Passed QA (S2)
+S3,1127,"Assigned, awaiting shipment (S3)"
+T1,1023,In transit (T1)
+S4,45114,Delivered (S4)
+S5,520,Broken (S5)
+S6,4511,Recycled (S6)
+Other,397,Other / Edge cases

@@ -1,0 +1,17 @@
+.DS_Store
+.next/
+data/raw/
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Editor
+.vscode/
+*.swp
+
+# Build output
+out/
+build/
