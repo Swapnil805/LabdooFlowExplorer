@@ -75,7 +75,7 @@ export default function MapBase({ width, height, onReady, onZoom }: MapBaseProps
     d3.json<WorldData>("/data/world.geojson").then((worldData) => {
       if (!worldData) return;
 
-      const countries = topojson.feature(
+      const countries: unknown = topojson.feature(
         worldData as never,
         (worldData as never as {
           objects: { countries: unknown };
@@ -96,7 +96,7 @@ export default function MapBase({ width, height, onReady, onZoom }: MapBaseProps
         .append("g")
         .attr("class", "countries")
         .selectAll("path")
-        .data((countries as d3.ExtendedFeatureCollection).features)
+        .data((countries as unknown as d3.ExtendedFeatureCollection).features)
         .join("path")
         .attr("d", pathGenerator)
         .attr("fill", "#1e293b")
